@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\19j04\Desktop\SMA_IVC_V5\SMA_IVC_V5\PCB_20230109_2023-01-11.pcbdoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00

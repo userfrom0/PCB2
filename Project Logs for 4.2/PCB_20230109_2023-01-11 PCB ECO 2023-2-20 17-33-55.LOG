@@ -1,0 +1,14 @@
+Added Component: Designator=1uH(IND-SMD_L5.4-W5.1_SPM5020)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SPM5015T-1R0M-LR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C1329923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SPM5015T-1R0M-LR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1uH_1 Pin=1uH-1
+Added Pin To Net: NetName=VOUT_3.3V Pin=1uH-2
+Added Member To Class: ClassName=Sheet_1_2023-01-11 Member=Component 1uH SPM5015T-1R0M-LR
+Added Member To Class: ClassName=Sheet_1_2023-01-11 Member=Component U2 ACS725LLCTR-05AB-T
